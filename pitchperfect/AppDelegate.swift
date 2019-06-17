@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  pitchperfect
 //
-//  Created by annie vallone on 6/4/19.
+//  Created by annie wilson on 6/4/19.
 //  Copyright © 2019 annie wilson. All rights reserved.
 //
 
